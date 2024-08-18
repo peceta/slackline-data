@@ -1524,10 +1524,13 @@
   },
   {
     "id": "bQoNB0c",
-    "name": "Slacklife / Reta do Slack",
+    "name": "L O K A H I | #slackbaixada",
     "createdDateTime": "2020-05-09",
-    "updatedDateTime": "2020-05-09",
-    "facebookGroup": "https://www.facebook.com/groups/219114854949708/"
+    "updatedDateTime": "2024-08-18",
+    "email": "lokahi.of@gmail.com",
+    "facebookGroup": "https://www.facebook.com/groups/219114854949708/",
+    "instagram": "https://www.instagram.com/lokahi.of/",
+    "webpage": "http://lokahi.world"
   },
   {
     "id": "EDd9GW6",
@@ -6025,13 +6028,6 @@
     "facebookGroup": "https://www.facebook.com/groups/341402536004350/"
   },
   {
-    "id": "ow34imA",
-    "name": "Slackline Coimbra",
-    "createdDateTime": "2020-05-09",
-    "updatedDateTime": "2020-05-09",
-    "facebookGroup": "https://www.facebook.com/groups/232318660286272/"
-  },
-  {
     "id": "nowDTVb",
     "name": "Slacklining in Coimbra",
     "createdDateTime": "2020-05-09",
@@ -6191,10 +6187,13 @@
   },
   {
     "id": "yXQ3ET4",
-    "name": "Slackline (Granada)",
+    "name": "Slackline Granada",
     "createdDateTime": "2020-05-09",
-    "updatedDateTime": "2020-05-09",
-    "facebookGroup": "https://www.facebook.com/groups/1488419928111449/"
+    "updatedDateTime": "2024-08-18",
+    "email": "slacklinegranada@gmail.com",
+    "facebookGroup": "https://www.facebook.com/groups/1488419928111449/",
+    "instagram": "https://www.instagram.com/slacklinegranada/",
+    "whatsapp": "https://chat.whatsapp.com/CpR9eo3v6pX8nbFmUX3XG6"
   },
   {
     "id": "R5GZrH1",
@@ -8333,25 +8332,12 @@
     "facebookGroup": "https://www.facebook.com/groups/211673588902938/"
   },
   {
-    "id": "JbuNoME",
-    "name": "City Slackers NYC",
-    "createdDateTime": "2020-05-09",
-    "updatedDateTime": "2020-05-09",
-    "facebookGroup": "https://www.facebook.com/groups/cityslackersNYC/"
-  },
-  {
     "id": "OxKykT7",
     "name": "NYC Slackliners",
     "createdDateTime": "2020-05-09",
-    "updatedDateTime": "2020-05-09",
-    "facebookGroup": "https://www.facebook.com/groups/469357513094071/"
-  },
-  {
-    "id": "ZWXof4i",
-    "name": "Slackline New York",
-    "createdDateTime": "2020-05-09",
-    "updatedDateTime": "2020-05-09",
-    "facebookGroup": "https://www.facebook.com/groups/387669981318242/"
+    "updatedDateTime": "2024-08-18",
+    "facebookGroup": "https://www.facebook.com/groups/nycslackliners",
+    "instagram": "https://www.instagram.com/slacknyc/"
   },
   {
     "id": "1uFRI-G",
@@ -11157,5 +11143,36 @@
     "updatedDateTime": "2024-07-25",
     "instagram": "https://www.instagram.com/slacklineamaz/",
     "whatsapp": "https://wa.me/51921222377"
+  },
+  {
+    "id": "dIdRuXT",
+    "name": "Highline San Luis",
+    "createdDateTime": "2024-08-18",
+    "updatedDateTime": "2024-08-18",
+    "whatsapp": "https://chat.whatsapp.com/DWZ5F5mZbOq4elK39oP6lz"
+  },
+  {
+    "id": "CjC4OIJ",
+    "name": "Slackline Coimbra",
+    "createdDateTime": "2024-08-18",
+    "updatedDateTime": "2024-08-18",
+    "email": "dpcouto97@gmail.com",
+    "whatsapp": "https://chat.whatsapp.com/G81q3TMOsiM4BJRtU5oH9P"
+  },
+  {
+    "id": "j-F0kRG",
+    "name": "Stamford Slackro",
+    "createdDateTime": "2024-08-18",
+    "updatedDateTime": "2024-08-18",
+    "instagram": "https://www.instagram.com/stamford_slackro/"
+  },
+  {
+    "id": "tOcqaET",
+    "name": "North Carolina Slackline Collective",
+    "createdDateTime": "2024-08-18",
+    "updatedDateTime": "2024-08-18",
+    "email": "Ncslackline@gmail.com",
+    "facebookGroup": "https://facebook.com/groups/ncslackline",
+    "instagram": "https://instagram.com/ncslacklinecollective"
   }
 ]
