@@ -7723,22 +7723,22 @@
     },
     {
       "type": "Feature",
-      "properties": { "id": "dIdRuXT", "ft": "sg", "c": "XX" },
+      "properties": { "id": "dIdRuXT", "ft": "sg", "c": "CR" },
       "geometry": { "type": "Point", "coordinates": [-84.81, 10.28] }
     },
     {
       "type": "Feature",
-      "properties": { "id": "CjC4OIJ", "ft": "sg", "c": "XX" },
+      "properties": { "id": "CjC4OIJ", "ft": "sg", "c": "PT" },
       "geometry": { "type": "Point", "coordinates": [-8.409, 40.2] }
     },
     {
       "type": "Feature",
-      "properties": { "id": "j-F0kRG", "ft": "sg", "c": "XX" },
+      "properties": { "id": "j-F0kRG", "ft": "sg", "c": "US" },
       "geometry": { "type": "Point", "coordinates": [-73.551, 41.065] }
     },
     {
       "type": "Feature",
-      "properties": { "id": "tOcqaET", "ft": "sg", "c": "XX" },
+      "properties": { "id": "tOcqaET", "ft": "sg", "c": "US" },
       "geometry": { "type": "Point", "coordinates": [-82.951, 35.46] }
     }
   ]
