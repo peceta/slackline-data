@@ -7668,11 +7668,6 @@
     },
     {
       "type": "Feature",
-      "properties": { "id": "59bUtGl", "ft": "sg", "c": "CH" },
-      "geometry": { "type": "Point", "coordinates": [7.246, 47.137] }
-    },
-    {
-      "type": "Feature",
       "properties": { "id": "j4jx32X", "ft": "sg", "c": "CN" },
       "geometry": { "type": "Point", "coordinates": [93.647, 42.026] }
     },
