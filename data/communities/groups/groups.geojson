@@ -7643,7 +7643,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "id": "mrJ7GN_", "ft": "sg", "c": "CH" },
+      "properties": { "id": "mrJ7GN_", "ft": "isaM", "c": "CH" },
       "geometry": { "type": "Point", "coordinates": [7.813, 46.679] }
     },
     {
