@@ -50,14 +50,14 @@
     "name": "Canadian Slackline Association",
     "email": "slacklinecanada@gmail.com",
     "country": "CA",
-    "memberType": "active",
+    "memberType": "associate",
     "groupId": "Zsx7W2D"
   },
   {
     "name": "Iran Slackline",
     "email": "iranslackline@gmail.com",
     "country": "IR",
-    "memberType": "active",
+    "memberType": "associate",
     "groupId": "4cYLFoC"
   },
   {
@@ -104,7 +104,7 @@
     "name": "Slackline Finland",
     "email": "slackline.finland.ry@gmail.com",
     "country": "FI",
-    "memberType": "active",
+    "memberType": "associate",
     "groupId": "SGb6rCp"
   },
   {
@@ -118,7 +118,7 @@
     "name": "Slackline Lietuva",
     "email": "info@alternatyviai.lt",
     "country": "LV",
-    "memberType": "active",
+    "memberType": "associate",
     "infoUrl": "https://alternatyviai.lt/",
     "groupId": "X445ynp"
   },
@@ -126,7 +126,7 @@
     "name": "Slackline INDIA",
     "email": "indianslacklineorg@gmail.com",
     "country": "IN",
-    "memberType": "active",
+    "memberType": "associate",
     "groupId": "WKVBMAm"
   },
   {
@@ -149,7 +149,7 @@
     "name": "Step Slackliners Armenia",
     "email": "stepslacklinersarmenia@gmail.com",
     "country": "AM",
-    "memberType": "active",
+    "memberType": "associate",
     "groupId": "0MBeRo3"
   },
   {
