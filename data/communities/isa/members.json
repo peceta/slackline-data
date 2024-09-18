@@ -1034,5 +1034,13 @@
     "memberType": "partner",
     "infoUrl": "https://block-quality.com/",
     "groupId": "dm_Mhhy"
+  },
+  {
+    "name": "Move Interlaken",
+    "email": "info@moveinterlaken.ch",
+    "country": "CH",
+    "memberType": "observer",
+    "infoUrl": "https://moveinterlaken.ch/",
+    "groupId": "mrJ7GN_"
   }
 ]
