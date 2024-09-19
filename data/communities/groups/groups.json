@@ -6491,9 +6491,11 @@
   },
   {
     "id": "gaMzH5v",
-    "name": "Slackline Valencia",
+    "name": "Asociación Slackline Valencia",
     "createdDateTime": "2020-05-09",
     "updatedDateTime": "2020-05-09",
+    "email": "asociacionslacklinevalencia@gmail.com",
+    "instagram": "https://www.instagram.com/slacklinevalencia/",
     "facebookGroup": "https://www.facebook.com/groups/120662984770839/"
   },
   {
@@ -8914,6 +8916,7 @@
     "name": "Slackline MADRiders",
     "createdDateTime": "2020-05-25",
     "updatedDateTime": "2023-12-11",
+    "email": "slackline.madriders@gmail.com",
     "instagram": "https://www.instagram.com/slackline.madriders/"
   },
   {
