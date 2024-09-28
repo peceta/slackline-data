@@ -7780,6 +7780,11 @@
       "type": "Feature",
       "properties": { "id": "5TLd6gS", "ft": "isaM", "c": "BR" },
       "geometry": { "type": "Point", "coordinates": [-49.2287425, -25.3145354] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": "iN65bBQ", "ft": "sg", "c": "DE" },
+      "geometry": { "type": "Point", "coordinates": [47.8114314, 9.6500090] }
     }
   ]
 }
